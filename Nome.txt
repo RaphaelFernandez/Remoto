@@ -1,3 +1,4 @@
-Esse é um arquivo txt.
+﻿Esse é um arquivo txt.
 
 Nome:Raphael Fernandez RA:13.04199-0
+Nome:Diogo Slepetys RA:13.01627-0
